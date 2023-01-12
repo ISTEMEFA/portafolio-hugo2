@@ -107,7 +107,9 @@ params:
     intro: "Hola mi nombre es"
     title: "Israel"
     subtitle: "Desarrolador full stack"
-    content: "Un apasionado desarrollador de aplicaciones web. Tiendo a utilizar tecnologías web modernas para crear sitios web que se vean geniales, siempre en constante desarrollo."
+    content: "Un apasionado desarrollador de aplicaciones web. Tiendo a utilizar 
+              tecnologías web modernas para crear sitios web que se vean geniales, 
+              siempre en constante desarrollo."
     image: /images/laragon.png
     socialLinks:
       fontAwesomeIcons:
@@ -123,10 +125,12 @@ params:
     title: "Sobre mi"
     image: "/images/laragon.png"
     content: |-
-      Soy un desarrollador de software apasionado por el desarrollo web. Tengo experiencia en Soporte IT , y tengo un gran interés en la intersección de la tecnología y el arte. Actualmente busco mi primera trabajo como desarrollador.
+      Soy un desarrollador de software apasionado por el desarrollo web.
+       Tengo experiencia en Soporte IT , y tengo un gran interés en la  tecnología. Actualmente busco mi primera trabajo como desarrollador.
     skills:
       enable: true
-      title: "Tecnologías con las que he estado trabajando recientemente:"
+      title: 
+        - "Tecnologías con las que he estado trabajando recientemente:"
       items:
         - "HTML"
         - "CSS"
