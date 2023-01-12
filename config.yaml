@@ -129,8 +129,7 @@ params:
        Tengo experiencia en Soporte IT , y tengo un gran interés en la  tecnología. Actualmente busco mi primera trabajo como desarrollador.
     skills:
       enable: true
-      title: 
-        - "Tecnologías con las que he estado trabajando recientemente:"
+      title: "Tecnologías con las que he estado trabajando recientemente:"
       items:
         - "HTML"
         - "CSS"
