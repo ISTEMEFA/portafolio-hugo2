@@ -106,7 +106,7 @@ params:
     enable: true
     intro: "Hola mi nombre es"
     title: "Israel"
-    subtitle: "Desarrolador full stack"
+    subtitle: "Desarrollador Full Stack"
     content: "Un apasionado desarrollador de aplicaciones web. Tiendo a utilizar 
               tecnologías web modernas para crear sitios web que se vean geniales, 
               siempre en constante desarrollo."
@@ -153,7 +153,7 @@ params:
   # Education
   education:
     enable: true
-    title: "Educacion"
+    title: "Educación"
     index: false
     items:
       - title: "Ingenieria ejecucion industrial"
