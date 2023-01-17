@@ -106,7 +106,7 @@ params:
     enable: true
     intro: "Hola mi nombre es"
     title: "Israel"
-    subtitle: "Desarrollador Full Stack"
+    subtitle: "Desarrollador Full Stack Java Trainee"
     content: "Un apasionado desarrollador de aplicaciones web. Tiendo a utilizar 
               tecnologías web modernas para crear sitios web que se vean geniales, 
               siempre en constante desarrollo."
@@ -158,25 +158,26 @@ params:
     items:
       - title: "Ingenieria ejecucion industrial"
         school:
-          name: "Universidad Catolica de la Santisima Concepcion"
+          name: "Universidad Católica de la Santísima Concepción"
           url: "https://it.ucsc.cl/carreras/ingenieria-de-ejecucion-industrial/"
         date: "2020 - 2023"
         content: |-
           Perfil de egreso
             - El Ingeniero de Ejecución Industrial, titulado de la Universidad Católica de la Santísima Concepción, es un profesional con competencias que le permiten formular, implementar, administrar, optimizar e innovar sistemas productivos de bienes y servicios.
-      - title: "Desarrollador Java Full Stack"
+      - title: "Desarrollador Full Stack Java Trainee"
         school:
-          name: "Academia Desafios Latam"
+          name: "Academia Desafio Latam"
           url: "https://desafiolatam.com/"
         date: "2022 - 2022 (480h)"
         content: |-
           Perfil de egreso
-            -Construir proyectos full stack mezclando interfaces web construidas en el entorno de Java con framework
-            como spring boot ademas desarrollar la capacidad de adaptacion de diferentes legnuajes segun el mercado laboral. 
+            - Construir proyectos Full Stack mezclando interfaces web construidas en el entorno de Java con framework
+             Spring Boot 
+            - Además desarrollar la capacidad de adaptación de diferentes lenguajes, según las necesidad del mercado laboral. 
         
-      - title: "Tecnico en Automatizacion Industrial"
+      - title: "Técnico en Automatización Industrial"
         school:
-          name: "Universidad Catolica de la Santisima Concepcion"
+          name: "Universidad Católica de la Santísima Concepción>"
           url: "https://it.ucsc.cl/carreras/tecnico-universitario-en-automatizacion-industrial/"
         date: "2017- 2019 "
         content: |-
@@ -208,7 +209,7 @@ params:
     title: "Proyectos"
     items:
       - title: CRUD Angular
-        content: CRUD que consume una Api para agregar usuarios con sus datos personales con validacion de informacion. 
+        content: CRUD que consume una Api para agregar usuarios con sus datos personales con validación de información. 
         image: /images/projects/angular.png
         featured:
           name: Link proyecto
@@ -223,7 +224,7 @@ params:
           
 
       - title: Api Spring boot
-        content: Api que interactua con una base de datos a traves de un CRUD Angular
+        content: Api que interactúa con una base de datos a través de un CRUD.
         image: /images/projects/converter.jpg
         featured:
           name: Link Proyecto
@@ -241,21 +242,20 @@ params:
   #Contact
   contact:
     enable: true
-    title: "Contactos"
+    title: "Contacto"
     content: Enviame un
     email: israelmege@gmail.com
-    btnName: Mi correo
+    btnName: Correo
   footer:
     recentPosts:
       path: "blogs"
-      count: 3
+      count: 2
       title: Redes sociales
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-     
+      github: https://github.com/ISTEMEFA?tab=repositories
+      linkedin: https://www.linkedin.com/in/israel-mege-98a03014b/
 
   # List pages like blogs and posts
   listPages:
